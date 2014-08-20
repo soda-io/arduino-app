@@ -1,0 +1,28 @@
+body {
+  padding: 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #000;
+}
+a {
+  color: #00b7ff;
+}
+div.btn {
+  width: 48%;
+  height: 48vh;
+  border-radius: 80%;
+  background-color: #f00;
+  display: inline-block;
+  cursor: pointer;
+}
+div.btn.one {
+  background-color: #7fff00;
+}
+div.btn.two {
+  background-color: #fa8072;
+}
+div.btn.three {
+  background-color: #8a2be2;
+}
+div.btn.four {
+  background-color: #00f;
+}
