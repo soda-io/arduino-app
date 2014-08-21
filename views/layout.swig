@@ -4,6 +4,8 @@
     <meta charset="utf-8" />
     <title>{{ title }}</title>
     <link rel="stylesheet" href="/stylesheets/style.css">
+    <script src="/js/zepto.js" type="text/javascript" ></script>
+    <script src="/js/index.js" type="text/javascript" ></script>
 
 </head>
 <body>
